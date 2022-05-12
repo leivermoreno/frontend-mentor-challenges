@@ -18,8 +18,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- [Solution URL:](https://github.com/leivermoreno/frontend-mentor-challenges/tree/main/profile%20card)
-- [Live Site URL:](https://frontendmentor-lm.netlify.app/profile%20card/)
+- [Solution URL](https://github.com/leivermoreno/frontend-mentor-challenges/tree/main/profile%20card)
+- [Live Site URL](https://frontendmentor-lm.netlify.app/profile%20card/)
 
 ## My process
 
@@ -28,3 +28,4 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
+- BEM
