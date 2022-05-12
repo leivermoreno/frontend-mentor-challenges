@@ -11,7 +11,11 @@ html {
 
 body {
   font-size: 1.8rem;
-  background: hsl(185, 75%, 39%);
+  background-color: hsl(185, 75%, 39%);
+  background-image: url(images/bg-pattern-top.svg),
+    url(images/bg-pattern-bottom.svg);
+  background-position: right 45vw bottom 45vh, 45vw 45vh;
+  background-repeat: no-repeat;
   font-family: "Kumbh Sans", sans-serif;
   min-height: 100vh;
   display: flex;
