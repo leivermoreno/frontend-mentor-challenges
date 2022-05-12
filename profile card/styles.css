@@ -1,0 +1,77 @@
+@import url("https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+  --color-headings: hsl(229, 23%, 23%);
+}
+
+body {
+  font-size: 1.8rem;
+  background: hsl(185, 75%, 39%);
+  font-family: "Kumbh Sans", sans-serif;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.card {
+  color: hsl(227, 10%, 46%);
+  background: #fff url(images/bg-pattern-card.svg) no-repeat;
+  width: 335px;
+  margin: auto;
+  border-radius: 20px;
+  text-align: center;
+}
+
+.card__picture {
+  border: #fff solid 5px;
+  border-radius: 50%;
+  margin-top: 90px;
+}
+
+.card__info {
+  margin-bottom: 10px;
+}
+
+.card__name {
+  color: var(--color-headings);
+  font-weight: 700;
+}
+
+.card__city {
+  font-size: 1.4rem;
+  margin-bottom: 30px;
+}
+
+.card__numbers {
+  display: flex;
+  justify-content: space-around;
+  border-top: rgba(0, 0, 0, 0.2) solid 1px;
+  padding: 20px;
+}
+
+.card__numbers p {
+  margin: 5px;
+}
+
+.card__number {
+  font-weight: 700;
+  color: var(--color-headings);
+}
+
+.card__number-description {
+  font-size: 1.2rem;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
