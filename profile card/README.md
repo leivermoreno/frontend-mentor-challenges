@@ -18,8 +18,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/leivermoreno/frontend-mentor-challenges/tree/main/profile%20card)
-- Live Site URL: [Add live site URL here](https://frontendmentor-lm.netlify.app/profile%20card/)
+- [Solution URL:](https://github.com/leivermoreno/frontend-mentor-challenges/tree/main/profile%20card)
+- [Live Site URL:](https://frontendmentor-lm.netlify.app/profile%20card/)
 
 ## My process
 
