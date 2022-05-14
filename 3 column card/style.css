@@ -94,4 +94,12 @@ body {
     flex-flow: row nowrap;
     justify-content: center;
   }
+
+  .card__title {
+    font-size: 3.5rem;
+  }
+
+  .card__button {
+    margin-top: 60px;
+  }
 }
